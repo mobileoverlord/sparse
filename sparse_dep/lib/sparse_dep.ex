@@ -1,0 +1,2 @@
+defmodule SparseDep do
+end
